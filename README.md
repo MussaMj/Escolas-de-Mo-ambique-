@@ -31,10 +31,6 @@ A base de dados principal utilizada para esta análise consiste num arquivo CSV 
  - Água e Saneamento: cobertura de água potável e saneamento por escola/província.
  - Distribuição Regional: número total de escolas por província, incluindo dados comparativos.
 
-[Entity Relationship Diagram here]
-
-
-
 # Executive Summary  
 
 ### Overview of Findings  
@@ -72,12 +68,9 @@ Investimentos em água potável, saneamento e energia são fundamentais para:
 - Melhorar a qualidade do ensino e a frequência escolar.  
 - Diminuir disparidades entre áreas urbanas e rurais.  
 
- 
 
-### Visual Summary  
-
-_[Inserir aqui: gráfico ou snapshot de dashboard com visão geral nacional — ex: nº total de escolas, % com água potável, % com saneamento funcional, % com energia]._  
-
+### Visual Summary   
+![image-alt](https://github.com/MussaMj/Escolas-de-Mo-ambique-/blob/main/dashboard3.0.png)
 
 
 
@@ -85,57 +78,62 @@ _[Inserir aqui: gráfico ou snapshot de dashboard com visão geral nacional — 
 
 ### Category 1: Distribuição Nacional de Escolas  
 
-* **Main insight 1.** A análise mostra que Moçambique conta com um total de **12,993 escolas**. A província da **Zambézia concentra 3,273 escolas**, enquanto a **Cidade de Maputo apresenta apenas 514**.  
-  _[Adicionar observações sobre a densidade escolar em relação à população ou ao território]._  
+* **Main insight 1.** A análise mostra que Moçambique conta com um total de **12,993 escolas**. A província da **Zambézia concentra 3,273 escolas**, enquanto a **Cidade de Maputo apresenta apenas 514**. Essa distribuição evidencia uma **desigualdade regional significativa**, já que o **Centro e o Norte concentram a maioria das escolas**, mas também enfrentam maiores problemas de infra-estrutura.
 
-* **Main insight 2.** Existe uma clara desigualdade regional: o **Centro e o Norte concentram a maioria das escolas**, mas também enfrentam maiores problemas de infra-estrutura.  
-  _[Adicionar percentuais de distribuição por região]._   
-
-* **Main insight 3.** O contraste entre áreas urbanas e rurais é evidente, sendo as capitais provinciais as que apresentam melhor cobertura de serviços educacionais.  
-  _[Adicionar aqui correlações com indicadores de água, saneamento ou energia]._  
-
-[📊 Inserir visualização aqui: mapa coroplético + gráfico de barras mostrando nº de escolas por província]  
+<p align="center">
+  <img src="https://github.com/MussaMj/Escolas-de-Mo-ambique-/blob/main/nr%20de%20escolas.png" alt="Distribuição de Escolas" width="1000">
+</p>
 
 
 ### Category 2: Água e Saneamento  
 
-* **Main insight 1.** Apenas uma fracção das escolas em Moçambique possui **acesso à água potável**. Em algumas províncias do Norte, a cobertura fica entre **20% e 30%**, revelando fortes desigualdades regionais.  
-  _[Adicionar números exactos da análise para cada província]._  
+* **Main insight 1.** Apenas uma fracção das escolas em Moçambique possui **acesso à água potável**. Em algumas províncias do Norte, a cobertura fica entre **20% e 30%**, revelando fortes desigualdades regionais.
+  
+* **Main insight 2.** As províncias do Centro apresentam **situação mista**, com algumas alcançando cerca de **53% de cobertura de água potável**, enquanto outras ficam bem abaixo desse valor.
 
-* **Main insight 2.** As províncias do Centro apresentam **situação mista**, com algumas alcançando cerca de **53% de cobertura de água potável**, enquanto outras ficam bem abaixo desse valor.  
-  _[Adicionar observações sobre províncias mais críticas]._  
+  
+<p align="center">
+  <img src="https://github.com/MussaMj/Escolas-de-Mo-ambique-/blob/main/%25%20qualidade%20de%20agua.png" alt="Qualidade da Água" width="900">
+</p>
+
+
 
 * **Main insight 3.** O saneamento escolar (latrinas, urinóis e casas de banho) mostra-se **altamente precário** em várias regiões, com muitas escolas declarando não possuir estruturas funcionais.  
-  _[Adicionar percentuais de escolas sem saneamento mínimo]._  
-
-* **Main insight 4.** A falta de água potável e de saneamento funcional impacta directamente a **saúde, higiene e permanência das crianças nas escolas**, ampliando desigualdades sociais e regionais.  
-  _[Adicionar achados de impacto no dia-a-dia das crianças]._  
-
-[ Inserir visualizações aqui:  
-- Gráfico de barras (% escolas com água potável por província)  
-- Mapa coroplético mostrando distribuição de água potável  
-- Gráfico de barras empilhadas (saneamento funcional vs não funcional)  
-]  
 
 
+  <p align="center">
+  <img src="https://github.com/MussaMj/Escolas-de-Mo-ambique-/blob/main/saneamento%20funcio%20e%20Nfuncio.png" alt="Saneamento Funcional e Não Funcional" width="550">
+</p>
 
 ### Category 3: Energia  
 
-* **Main insight 1.** Uma parte considerável das escolas ainda **não possui acesso à energia elétrica**, especialmente em províncias rurais como **Niassa e Cabo Delgado**, evidenciando desigualdades regionais.  
-  _[Adicionar percentuais de escolas com e sem energia]._  
+* **Main insight 1.** Uma parte considerável das escolas ainda **não possui acesso à energia elétrica**, como **Zambézia e Tete**, evidenciando desigualdades regionais.  
 
-* **Main insight 2.** Entre as escolas que têm acesso, as principais fontes de energia são **rede elétrica nacional** e **geradores**, com algumas escolas recorrendo a soluções alternativas como **painéis solares**.  
-  _[Adicionar distribuição por tipo de energia]._  
 
+   <p align="center">
+  <img src="https://github.com/MussaMj/Escolas-de-Mo-ambique-/blob/main/Sheet%208.png" alt="Escolas com Energia" width="700">
+</p>
+
+
+* **Main insight 2.** Entre as escolas que têm acesso, as principais fontes de energia são **redes publicas** e **Painis solares**, e poucas escolas recorrem ao uso de **painéis solares**.  
+
+
+<p align="center">
+  <img src="https://github.com/MussaMj/Escolas-de-Mo-ambique-/blob/main/principal%20fonte%20de%20energia.png" height="600" width ="200">
+</p>
+
+  
 * **Main insight 3.** As províncias do Sul, em especial **Maputo Cidade**, apresentam a maior cobertura energética, ultrapassando significativamente os níveis do Norte e Centro.  
-  _[Adicionar números comparativos]._  
+
+
+  <p align="center">
+  <img src="https://github.com/MussaMj/Escolas-de-Mo-ambique-/blob/main/escolas%20com%20energia%20%25.png" width="600">
+</p>
+
 
 * **Main insight 4.** A ausência de energia elétrica limita atividades escolares como **uso de equipamentos tecnológicos, iluminação para turnos noturnos** e **acesso a ferramentas pedagógicas modernas**, impactando diretamente a qualidade do ensino.  
+ 
 
-[📊 Inserir visualizações aqui:  
-- Gráfico de barras mostrando % de escolas com energia por província  
-- Gráfico de pizza ou barras para distribuição das fontes de energia  
-]  
 
 # Recommendations  
 
@@ -151,22 +149,11 @@ Based on the insights and findings above, we would recommend the **Ministério d
 
 * **Infraestrutura degradada.** Criar um plano nacional de **manutenção preventiva** para escolas, com inspeções periódicas e fundos descentralizados para reparos básicos.  
 
-  
+## Data Sources
 
+The data used in this project was obtained from Kutiva  
+- Link: [(https://data.humdata.org/dataset/mozambique-school-data#:~:text=Mozambique_Rede,-Escolar_WiS_School)]  
+- Modified: 30 November 2022  
+- Formato: CSV  
 
-# Assumptions and Caveats
-
-Throughout the analysis, several assumptions and caveats were made to address challenges with the data. These are documented below:
-
-* **Assumption 1**: (ex: missing country records were assumed to be US customers, and were re-coded as such).  
-* **Assumption 2**: (ex: data for December 2021 was missing — imputed using a combination of historical trends and December 2020 data).  
-* **Assumption 3**: (ex: 3% of the refund date column contained invalid dates, which were excluded from the analysis).  
-
----
-
-### Additional Notes (to be updated as project evolves):
-- **Assumption 4**: ...
-- **Assumption 5**: ...
-- **Caveat 1**: ...
-- **Caveat 2**: ...
 
