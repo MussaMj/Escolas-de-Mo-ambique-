@@ -99,7 +99,7 @@ Investimentos em **água potável, saneamento e energia** são fundamentais para
 
 
 
-* **Principais conclusões 3.** O saneamento escolar (latrinas, urinóis e casas de banho) mostra-se **altamente precário** em várias regiões, com muitas escolas declarando não possuir estruturas funcionais.  
+* **Principais conclusões 3.** O gráfico revela disparidades significativas entre províncias tanto em termos de quantidade total de infraestrutura de saneamento quanto na proporção de estruturas funcionais versus não funcionais, sugerindo diferentes níveis de desenvolvimento e manutenção da infraestrutura sanitária no país.
 
 
   <p align="center">
