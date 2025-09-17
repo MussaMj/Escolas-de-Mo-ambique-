@@ -116,7 +116,8 @@ Investimentos em **água potável, saneamento e energia** são fundamentais para
 </p>
 
 
-* **Principais conclusões 2.** Entre as escolas que têm acesso, as principais fontes de energia são **redes publicas** e **Painis solares**, e poucas escolas recorrem ao uso de **painéis solares**.  
+* **Principais conclusões 2.** Entre as escolas que têm acesso à energia, as principais fontes são a **rede pública** e, em menor escala, os **painéis solares**.  
+
 
 
 <p align="center">
