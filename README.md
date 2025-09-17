@@ -71,7 +71,7 @@ Investimentos em **água potável, saneamento e energia** são fundamentais para
 
 
 ### Resumo visual   
-![image-alt](https://github.com/MussaMj/Escolas-de-Mo-ambique-/blob/main/dashboard3.0.png)
+![image-alt](https://github.com/MussaMj/Escolas-de-Mo-ambique-/blob/main/imagens/dashboard3.0.png)
 
 
 
@@ -82,7 +82,7 @@ Investimentos em **água potável, saneamento e energia** são fundamentais para
 * **Main insight 1.** A análise mostra que Moçambique conta com um total de **12,993 escolas**. A província da **Zambézia concentra 3,273 escolas**, enquanto a **Cidade de Maputo apresenta apenas 514**. Essa distribuição evidencia uma **desigualdade regional significativa**, já que o **Centro e o Norte concentram a maioria das escolas**, mas também enfrentam maiores problemas de infra-estrutura.
 
 <p align="center">
-  <img src="https://github.com/MussaMj/Escolas-de-Mo-ambique-/blob/main/nr%20de%20escolas.png" alt="Distribuição de Escolas" width="1000">
+  <img src="https://github.com/MussaMj/Escolas-de-Mo-ambique-/blob/main/imagens/nr%20de%20escolas.png" alt="Distribuição de Escolas" width="1000">
 </p>
 
 
@@ -94,7 +94,7 @@ Investimentos em **água potável, saneamento e energia** são fundamentais para
 
   
 <p align="center">
-  <img src="https://github.com/MussaMj/Escolas-de-Mo-ambique-/blob/main/%25%20qualidade%20de%20agua.png" alt="Qualidade da Água" width="900">
+  <img src="https://github.com/MussaMj/Escolas-de-Mo-ambique-/blob/main/imagens/%25%20qualidade%20de%20agua.png" alt="Qualidade da Água" width="900">
 </p>
 
 
@@ -103,7 +103,7 @@ Investimentos em **água potável, saneamento e energia** são fundamentais para
 
 
   <p align="center">
-  <img src="https://github.com/MussaMj/Escolas-de-Mo-ambique-/blob/main/saneamento%20funcio%20e%20Nfuncio.png" alt="Saneamento Funcional e Não Funcional" width="550">
+  <img src="https://github.com/MussaMj/Escolas-de-Mo-ambique-/blob/main/imagens/saneamento%20funcio%20e%20Nfuncio.png" alt="Saneamento Funcional e Não Funcional" width="550">
 </p>
 
 ### Categoria 3: Energia  
@@ -112,7 +112,7 @@ Investimentos em **água potável, saneamento e energia** são fundamentais para
 
 
    <p align="center">
-  <img src="https://github.com/MussaMj/Escolas-de-Mo-ambique-/blob/main/Sheet%208.png" alt="Escolas com Energia" width="700">
+  <img src="https://github.com/MussaMj/Escolas-de-Mo-ambique-/blob/main/imagens/Sheet%208.png" alt="Escolas com Energia" width="700">
 </p>
 
 
@@ -120,7 +120,7 @@ Investimentos em **água potável, saneamento e energia** são fundamentais para
 
 
 <p align="center">
-  <img src="https://github.com/MussaMj/Escolas-de-Mo-ambique-/blob/main/principal%20fonte%20de%20energia.png" height="600" width ="200">
+  <img src="https://github.com/MussaMj/Escolas-de-Mo-ambique-/blob/main/imagens/principal%20fonte%20de%20energia.png" height="600" width ="200">
 </p>
 
   
@@ -128,7 +128,7 @@ Investimentos em **água potável, saneamento e energia** são fundamentais para
 
 
   <p align="center">
-  <img src="https://github.com/MussaMj/Escolas-de-Mo-ambique-/blob/main/escolas%20com%20energia%20%25.png" width="600">
+  <img src="https://github.com/MussaMj/Escolas-de-Mo-ambique-/blob/main/imagens/escolas%20com%20energia%20%25.png" width="600">
 </p>
 
 
