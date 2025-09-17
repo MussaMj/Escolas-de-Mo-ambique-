@@ -139,7 +139,7 @@ Investimentos em **água potável, saneamento e energia** são fundamentais para
 
 # Recomendações  
 
-Based on the insights and findings above, we would recommend the **Ministério da Educação, gestores escolares e parceiros de desenvolvimento** to consider the following:  
+Com base nas conclusões e resultados acima, recomenda-se ao **Ministério da Educação, gestores escolares e parceiros de desenvolvimento** que considerem o seguinte:  
 
 * **Distribuição desigual de escolas.** Concentrar novos investimentos em províncias como **Zambézia, Nampula e Niassa**, que têm elevada quantidade de escolas mas infraestrutura mais frágil.  
 
