@@ -17,7 +17,7 @@ Do ponto de vista de um analista de dados, o projecto foi conduzido para:
  - Cobertura energética e principais fontes de energia.
 
    
-As queries SQL utilizadas para exploração podem ser encontradas aqui [link].
+As queries SQL utilizadas para exploração podem ser encontradas aqui [[link](https://github.com/MussaMj/Escolas-de-Mo-ambique-/blob/main/scripts/sql/EDA_Escolas.sql)].
 
 
 # Estrutura de Dados e Verificações Iniciais
