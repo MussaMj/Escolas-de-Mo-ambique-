@@ -1,4 +1,4 @@
-# Contexto do projeto
+# Contexto do projecto
 
 Este projecto visa analisar as condições de infra-estrutura das escolas em Moçambique, a partir de um conjunto de dados com informações sobre água, saneamento, energia e distribuição por província.
 
@@ -24,8 +24,8 @@ As queries SQL utilizadas para exploração podem ser encontradas aqui [[link](h
 
 A base de dados principal utilizada para esta análise consiste num arquivo CSV do Excel, contendo 12.901 registos. A seguir está a descrição do conteúdo das colunas do arquivo:
 
- - Escolas: informações gerais sobre as escolas (Codigo da escola, nome, província, distrito, localização).
- - Infra-estruturas: dados sobre condições físicas das escolas (acesso a água, latrinas e casas de banho, acesso à energia, etc.).
+ - Escolas: informações gerais sobre as escolas (Código da escola, nome, província, distrito, localização).
+ - Infra-estruturas: dados sobre condições físicas das escolas (acesso à água, latrinas e casas de banho, acesso à energia, etc.).
  - Água e Saneamento: cobertura de água potável e saneamento por escola/província.
  - Distribuição Regional: número total de escolas por província, incluindo dados comparativos.
 
@@ -41,12 +41,12 @@ Os resultados evidenciam disparidades regionais marcantes que podem impactar dir
 1. **Distribuição de Escolas por Região:**  
 - **Zona Norte:** Conta com **4,237 escolas**. A província de **Nampula lidera** com **2,334 escolas**, enquanto **Cabo Delgado apresenta o menor número**, com **923 escolas**.  
 - **Zona Centro:** É a região com **maior concentração de escolas**, totalizando **6,287 instituições**. A **Zambézia destaca-se** com **3,273 escolas**, enquanto **Manica apresenta o menor valor**, com **881 escolas**.  
-- **Zona Sul:** Registra um total de **2,237 escolas**. A província de **Inhambane possui o maior número**, com **920 escolas**, e a **Cidade de Maputo aparece na última posição**, com **514 escolas**.  
+- **Zona Sul:** Regista um total de **2,237 escolas**. A província de **Inhambane possui o maior número**, com **920 escolas**, e a **Cidade de Maputo aparece na última posição**, com **514 escolas**.  
 
 
 2. **Acesso à Água Potável:**  
 - **Zona Norte:** Apresenta os piores indicadores, com apenas **20% a 30% de cobertura**.  
-- **Zona Centro:** Situação heterogênea, variando entre **25% e 53%** de cobertura.  
+- **Zona Centro:** Situação heterogénea, variando entre **25% e 53%** de cobertura.  
 - **Zona Sul:** Apesar de ter **menos escolas em comparação ao Norte e Centro**, é a região com **melhores condições de acesso à água potável**, variando entre **48% e 66%**, com destaque para a capital.  
 
 3. **Saneamento Escolar:**  
@@ -62,7 +62,7 @@ Os resultados evidenciam disparidades regionais marcantes que podem impactar dir
 
 ### Implicações  
 
-Esses resultados reforçam a necessidade de **políticas públicas direcionadas** para reduzir as desigualdades regionais e melhorar a infraestrutura básica das escolas.  
+Esses resultados reforçam a necessidade de **políticas públicas direccionadas** para reduzir as desigualdades regionais e melhorar a infra-estrutura básica das escolas.  
 Investimentos em **água potável, saneamento e energia** são fundamentais para:  
 - Garantir condições adequadas de **saúde e segurança**;  
 - Melhorar a **qualidade do ensino** e a **frequência escolar**;  
@@ -99,7 +99,7 @@ Investimentos em **água potável, saneamento e energia** são fundamentais para
 
 
 
-* **Principais conclusões 3.** O gráfico revela disparidades significativas entre províncias tanto em termos de quantidade total de infraestrutura de saneamento quanto na proporção de estruturas funcionais versus não funcionais, sugerindo diferentes níveis de desenvolvimento e manutenção da infraestrutura sanitária no país.
+* **Principais conclusões 3.** O gráfico revela disparidades significativas entre províncias tanto em termos de quantidade total de infra-estrutura de saneamento quanto na proporção de estruturas funcionais versus não funcionais, sugerindo diferentes níveis de desenvolvimento e manutenção da infra-estrutura sanitária no país.
 
 
   <p align="center">
@@ -108,7 +108,7 @@ Investimentos em **água potável, saneamento e energia** são fundamentais para
 
 ### Categoria 3: Energia  
 
-* **Principais conclusões 1.** Uma parte considerável das escolas ainda **não possui acesso à energia elétrica**, como **Zambézia e Tete**, evidenciando desigualdades regionais.  
+* **Principais conclusões 1.** Uma parte considerável das escolas ainda **não possui acesso à energia eléctrica**, como **Zambézia e Tete**, evidenciando desigualdades regionais.  
 
 
    <p align="center">
@@ -116,7 +116,7 @@ Investimentos em **água potável, saneamento e energia** são fundamentais para
 </p>
 
 
-* **Principais conclusões 2.** Entre as escolas que têm acesso à energia, as principais fontes são a **rede pública** e, em menor escala temos os **geradores**.  
+* **Principais conclusões 2.** Entre as escolas que têm acesso à energia, as principais fontes são a **rede pública** e, em menor escala, temos os **geradores**.  
 
 
 
@@ -133,7 +133,7 @@ Investimentos em **água potável, saneamento e energia** são fundamentais para
 </p>
 
 
-* **Principais conclusões 4.** A ausência de energia elétrica limita atividades escolares como **uso de equipamentos tecnológicos, iluminação para turnos noturnos** e **acesso a ferramentas pedagógicas modernas**, impactando diretamente a qualidade do ensino.  
+* **Principais conclusões 4.** A ausência de energia eléctrica limita actividades escolares como **uso de equipamentos tecnológicos, iluminação para turnos nocturnos** e **acesso a ferramentas pedagógicas modernas**, impactando directamente a qualidade do ensino.  
  
 
 
@@ -141,15 +141,15 @@ Investimentos em **água potável, saneamento e energia** são fundamentais para
 
 Com base nas conclusões e resultados acima, recomenda-se ao **Ministério da Educação, gestores escolares e parceiros de desenvolvimento** que considerem o seguinte:  
 
-* **Distribuição desigual de escolas.** Concentrar novos investimentos em províncias como **Zambézia, Nampula e Niassa**, que têm elevada quantidade de escolas mas infraestrutura mais frágil.  
+* **Distribuição desigual de escolas.** Concentrar novos investimentos em províncias como **Zambézia, Nampula e Niassa**, que têm elevada quantidade de escolas, mas infra-estrutura mais frágil.  
 
-* **Baixo acesso à água potável.** Implementar projetos de **abastecimento sustentável de água** em escolas rurais e priorizar sistemas de captação (poços, furos, cisternas) onde a rede pública não chega.  
+* **Baixo acesso à água potável.** Implementar projectos de **abastecimento sustentável de água** em escolas rurais e priorizar sistemas de captação (poços, furos, cisternas) onde a rede pública não chega.  
 
 * **Déficit de saneamento.** Garantir que todas as novas escolas sejam construídas com **latrinas ou casas de banho funcionais**, e criar programas de reabilitação para escolas já existentes sem saneamento.  
 
 * **Cobertura energética limitada.** Expandir o acesso à energia escolar com soluções **fora da rede (ex.: solar)** em áreas rurais, reduzindo desigualdades entre províncias urbanas e rurais.  
 
-* **Infraestrutura degradada.** Criar um plano nacional de **manutenção preventiva** para escolas, com inspeções periódicas e fundos descentralizados para reparos básicos.  
+* **Infra-estrutura degradada.** Criar um plano nacional de **manutenção preventiva** para escolas, com inspecções periódicas e fundos descentralizados para reparos básicos.  
 
 ## Fontes de dados
 
