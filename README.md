@@ -139,18 +139,19 @@ Investimentos em **água potável, saneamento e energia** são fundamentais para
 
 # Recomendações  
 
-Com base nas conclusões e resultados acima, recomenda-se ao **Ministério da Educação, gestores escolares e parceiros de desenvolvimento** que considerem o seguinte:  
+**Atenção:** Os dados utilizados nesta análise são de 2022. Muitas condições podem ter mudado desde então. Assim, as recomendações devem ser interpretadas considerando possíveis actualizações no contexto escolar.  
 
-* **Distribuição desigual de escolas.** Concentrar novos investimentos em províncias como **Zambézia, Nampula e Niassa**, que têm elevada quantidade de escolas, mas infra-estrutura mais frágil.  
+Com base nas conclusões acima, recomenda-se ao **Ministério da Educação, gestores escolares e parceiros de desenvolvimento** que considerem o seguinte:  
+
+* **Distribuição desigual de escolas.** Priorizar investimentos em províncias como **Zambézia, Nampula e Niassa**, que possuem muitas escolas, mas enfrentam desafios em infra-estrutura.  
 
 * **Baixo acesso à água potável.** Implementar projectos de **abastecimento sustentável de água** em escolas rurais e priorizar sistemas de captação (poços, furos, cisternas) onde a rede pública não chega.  
 
-* **Déficit de saneamento.** Garantir que todas as novas escolas sejam construídas com **latrinas ou casas de banho funcionais**, e criar programas de reabilitação para escolas já existentes sem saneamento.  
+* **Déficit de saneamento.** Garantir que todas as novas escolas sejam construídas com **latrinas ou casas de banho funcionais**, e criar programas de reabilitação para escolas existentes sem saneamento adequado.  
 
-* **Cobertura energética limitada.** Expandir o acesso à energia escolar com soluções **fora da rede (ex.: solar)** em áreas rurais, reduzindo desigualdades entre províncias urbanas e rurais.  
+* **Cobertura energética limitada.** Expandir o acesso à energia escolar com soluções **fora da rede (ex.: solar)** em áreas rurais, reduzindo desigualdades entre áreas urbanas e rurais.  
 
 * **Infra-estrutura degradada.** Criar um plano nacional de **manutenção preventiva** para escolas, com inspecções periódicas e fundos descentralizados para reparos básicos.  
-
 ## Fontes de dados
 
 The data used in this project was obtained from Kutiva  
