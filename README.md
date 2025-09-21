@@ -79,7 +79,7 @@ Investimentos em **água potável, saneamento e energia** são fundamentais para
 
 ### Categoria 1: Distribuição Nacional de Escolas  
 
-* **Main insight 1.** A análise mostra que Moçambique conta com um total de **12,993 escolas**. A província da **Zambézia concentra 3,273 escolas**, enquanto a **Cidade de Maputo apresenta apenas 514**. Essa distribuição evidencia uma **desigualdade regional significativa**, já que o **Centro e o Norte concentram a maioria das escolas**, mas também enfrentam maiores problemas de infra-estrutura.
+* **Main insight 1.** A análise mostra que Moçambique conta com um total de **12,993 escolas**. A província da **Zambézia concentra 3,273 escolas**, enquanto a **província de Maputo apresenta apenas 514**. Essa distribuição evidencia uma **desigualdade regional significativa**, já que o **Centro e o Norte concentram a maioria das escolas**, mas também enfrentam maiores problemas de infra-estrutura.
 
 <p align="center">
   <img src="https://github.com/MussaMj/Escolas-de-Mo-ambique-/blob/main/imagens/nr%20de%20escolas.png" alt="Distribuição de Escolas" width="1000">
